@@ -1,1 +1,2 @@
 When ever loop needs to be travelled only once, try to track the history 
+All question are solved in O(n) time
