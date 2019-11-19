@@ -1,1 +1,6 @@
 https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd/00000000001a274e
+
+
+
+Hint:
+    // push in pq as it will keep track of all the papers greater than curr h index
