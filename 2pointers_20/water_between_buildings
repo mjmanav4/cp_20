@@ -1,2 +1,8 @@
 https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-2-4/
 
+
+approach time complexity
+
+1. n*n
+2. n*logN
+3. n 
