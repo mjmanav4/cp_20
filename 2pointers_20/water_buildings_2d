@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/trapping-rain-water/
+
+complexity
+1. Time -> n2 , spcae -> 1
+2. time -> n, space -> n
+3. time -> n , space ->1 
+4. time -> n , space ->1
+5. use stack , time n, space n
